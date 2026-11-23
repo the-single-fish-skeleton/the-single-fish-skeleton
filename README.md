@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 If there's one thing I love about GitHub, it's the fact that octocat is the mascot.
+
+### Files
+
+- `id_ed25519.pub`: My public SSH key.
+- `the-single-fish-skeleton.asc`: My 4096-bit RSA public key (GPG).
